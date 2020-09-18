@@ -1,1 +1,4 @@
-
+body{background-color:#ff0000}
+*{word-break:break-all}
+div{display:inline-block; width:48%;
+  border:solid;}
